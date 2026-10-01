@@ -43,13 +43,13 @@
     echo "Nama: $nama <br>";
     echo "Kelas: $kelas <br>";
 
-    
+    echo "<br>";
 
     echo "Nilai tugas: $nilaitugas <br>";
     echo "Nilai UTS: $nilaiUTS <br>";
     echo "Nilai UAS: $nilaiUAS <br>";
 
-    
+    echo "<br>";
 
     echo "Nilai akhir $nilaiakhir <br>";
     echo "Predikat $predikat <br>";
