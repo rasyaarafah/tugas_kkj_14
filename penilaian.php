@@ -40,13 +40,16 @@
     }
 
     //tampilan hasil
-    echo "Nama: $nama";
-    echo "Kelas: $kelas";
+    echo "Nama: $nama <br>";
+    echo "Kelas: $kelas <br>";
+
+    
 
     echo "Nilai tugas: $nilaitugas <br>";
     echo "Nilai UTS: $nilaiUTS <br>";
     echo "Nilai UAS: $nilaiUAS <br>";
 
+    
 
     echo "Nilai akhir $nilaiakhir <br>";
     echo "Predikat $predikat <br>";
